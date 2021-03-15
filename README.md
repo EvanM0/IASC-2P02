@@ -5,7 +5,7 @@ This is my online portfolio for IASC 2P02
 ## Interactive Study Guide
 Explore my interactive study guide [here](2P02Team1InteractiveStudyGuide.html).
 ## Interactive Genolgoy
-Explore my Interactive genology [here](InteractiveGenology.html)
+Explore my Interactive genology [here](2p02InteractiveGeneology.html)
 
 # Specultive Fiction
 ## Title of your essay here
